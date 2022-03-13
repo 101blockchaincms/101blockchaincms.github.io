@@ -1,4 +1,4 @@
-<div id="target">
+<!-- PAGE_START -->
 
 ## Quick start
 
@@ -41,4 +41,4 @@ public class Application {
 
 }
 ```
-</div>
+
